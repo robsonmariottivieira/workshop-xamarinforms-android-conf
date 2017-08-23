@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace TodoListAndroidConf1.Models
+﻿namespace TodoListAndroidConf1.Models
 {
     public class TodoItem
     {

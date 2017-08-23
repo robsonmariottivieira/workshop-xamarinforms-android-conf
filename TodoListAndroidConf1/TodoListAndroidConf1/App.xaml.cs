@@ -1,4 +1,5 @@
-﻿using TodoListAndroidConf1.ViewModels;
+﻿using TodoListAndroidConf1.Models;
+using TodoListAndroidConf1.ViewModels;
 using Xamarin.Forms;
 
 namespace TodoListAndroidConf1
